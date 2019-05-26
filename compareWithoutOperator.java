@@ -2,7 +2,7 @@ package InterviewPrep;
 
 public class compareWithoutOperator {
 	
-	//using XOR operator 
+	//Comparing two integers using XOR operator
 
 	public static void withoutEquals( int a, int b) {
 		if((a ^ b) !=0)
